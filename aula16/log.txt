@@ -1,0 +1,5 @@
+Sucess: Bem vindo (LogFileMixin)
+Error: Voce errou o login (LogFileMixin)
+Sucess: Bem vindo (LogFileMixin)
+Error: Voce errou o login (LogFileMixin)
+Sucess: Bem vindo (LogFileMixin)
