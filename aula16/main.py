@@ -1,9 +1,8 @@
-from login import LogFileMixin, LogPrintMixin
+from eletronica import Smartphone
 
-lp = LogPrintMixin()
-lp.log_error('Voce errou o login')
-lp.log_sucess('Bem vindo')
+galaxy_s = Smartphone('galaxy s')
+iPhone = Smartphone('iPhone')
 
-lf = LogFileMixin()
-lf.log_error('Voce errou o login')
-lf.log_sucess('Bem vindo')
+iPhone.desligar()
+galaxy_s.ligar()
+iPhone.ligar()
