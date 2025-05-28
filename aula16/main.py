@@ -5,4 +5,3 @@ iPhone = Smartphone('iPhone')
 
 iPhone.desligar()
 galaxy_s.ligar()
-iPhone.ligar()
