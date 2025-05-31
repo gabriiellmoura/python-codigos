@@ -15,7 +15,7 @@ p2 = Pessoa('helena', 12)
 
 p1.__dict__['nome'] = 'jose gabriel' # dict não é somente para leitura.
 
-#print(p1.ano_nascimento())
+print(p1.ano_nascimento())
 print(p2.ano_nascimento())
 '''
 #print(p1.nome)
